@@ -1,0 +1,14 @@
+Flask
+pymongo
+pika
+flask-cors
+pytest
+pytest-mock
+python-dotenv
+uvicorn
+fastapi
+motor               ~=3.3
+aio_pika
+pytest ~=7.4
+pytest-asyncio ~=0.21
+httpx ~=0.24
