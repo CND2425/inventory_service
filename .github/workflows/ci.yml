@@ -1,4 +1,4 @@
-name: Deploy Images to GHCR
+name: FastAPI Docker Image Test, Build and Push to Github Registry
 on:
   push:
     branches:
